@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">IDEIA LLC logo</title>
+  <desc id="desc">Abstract blue icon with people and curved security shapes.</desc>
+  <rect width="120" height="120" fill="#f5f8fb" />
+  <g fill="#1f78a7">
+    <circle cx="18" cy="30" r="9" />
+    <rect x="8" y="42" width="20" height="46" rx="9" />
+
+    <circle cx="43" cy="48" r="9" />
+    <rect x="33" y="60" width="20" height="28" rx="9" />
+
+    <circle cx="73" cy="17" r="11" />
+    <path d="M58 32c17 0 28 12 30 31l-14 2c-1-13-6-20-16-20V32z" />
+    <path d="M56 41c24 0 40 16 42 40l-14 2c-1-18-11-28-28-28V41z" />
+    <path d="M57 51c27 0 46 19 49 48H90c-2-21-14-34-33-34V51z" />
+
+    <path d="M40 103c7-18 19-30 35-36 4-2 8-6 10-10l7 10c-3 7-9 12-17 15-12 5-22 13-28 25H40z" />
+  </g>
+</svg>

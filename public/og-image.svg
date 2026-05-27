@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0F172A"/>
+  <rect x="64" y="64" width="1072" height="502" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="1032" cy="148" r="88" fill="#60A5FA" fill-opacity="0.18"/>
+  <circle cx="948" cy="488" r="136" fill="#F59E0B" fill-opacity="0.15"/>
+  <text x="120" y="240" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="34" letter-spacing="8">IDEIA LLC</text>
+  <text x="120" y="336" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Strategic IT &amp; Security</text>
+  <text x="120" y="414" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Consulting</text>
+  <text x="120" y="494" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28">Executive advisory for transformation, compliance, cloud, and enterprise risk.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="64" y1="64" x2="1136" y2="566" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>
