@@ -1,7 +1,6 @@
 import React from 'react'
 import { Container } from '../common/Container'
 import { SectionWrapper } from '../common/SectionWrapper'
-import { DEFAULT_CONTACT_INFO } from '../../types/contact'
 
 const PRIVACY_RIGHTS = [
   'Request access to the personal information we hold about you.',
@@ -52,21 +51,6 @@ export const PrivacySection: React.FC = () => {
             </section>
           </div>
 
-          <section>
-            <h3 className="text-2xl font-bold text-neutral-900 mb-4">Third-Party Services</h3>
-            <p className="text-neutral-700 leading-7 mb-4">
-              We use Cloudflare to host the site and Google Analytics for aggregate website measurement. These
-              providers process data under their own privacy commitments and only to support the services they provide
-              to IDEIA LLC.
-            </p>
-            <p className="text-neutral-700 leading-7">
-              If you would like to request access, deletion, or more detail about our processing, contact{' '}
-              <a href={`mailto:${DEFAULT_CONTACT_INFO.email}`} className="font-medium text-primary-600 hover:text-primary-700">
-                {DEFAULT_CONTACT_INFO.email}
-              </a>
-              .
-            </p>
-          </section>
         </div>
       </Container>
     </SectionWrapper>
